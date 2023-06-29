@@ -1,8 +1,8 @@
 # **Install Hackintosh macOS Monterey 12.0.1 Build 21A559 on lenovo B40-70**
 
-![258435351_10220061365872536_4482248421536063437_n](https://github.com/rproject1994/Lenovo_B40-70_Monterey/assets/83424782/49440097-f9a9-4cd4-8135-59ba6d6def6b)
+![258435351_10220061365872536_4482248421536063437_n](https://github.com/rproject1994/Lenovo_B40-70_Monterey/assets/83424782/8122ea90-7bc7-41e0-b065-f58acd1efcbb)
 
-![257917372_10220061365992539_7039193574459296590_n](https://github.com/rproject1994/Lenovo_B40-70_Monterey/assets/83424782/c6781665-5a7d-44b2-8099-a5d19cf74959)
+![257917372_10220061365992539_7039193574459296590_n](https://github.com/rproject1994/Lenovo_B40-70_Monterey/assets/83424782/5a87d42b-7db4-4c5f-aca8-db6fdc656288)
 
 
 | Note          | Description |
